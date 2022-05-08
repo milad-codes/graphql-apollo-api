@@ -1,0 +1,35 @@
+{
+  "name": "graphql-apollo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladakbari-dev/graphql-apollo-api.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "node.js",
+    "api",
+    "express"
+  ],
+  "author": "Milad Akbari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miladakbari-dev/graphql-apollo-api/issues"
+  },
+  "homepage": "https://github.com/miladakbari-dev/graphql-apollo-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.7.0",
+    "express": "^4.18.1",
+    "graphql": "^16.4.0",
+    "mongoose": "^6.3.2"
+  }
+}
