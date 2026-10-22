@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miladakbari-dev/graphql-apollo-api.git"
+    "url": "git+https://github.com/milad-codes/graphql-apollo-api.git"
   },
   "keywords": [
     "graphql",
@@ -20,9 +20,9 @@
   "author": "Milad Akbari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miladakbari-dev/graphql-apollo-api/issues"
+    "url": "https://github.com/milad-codes/graphql-apollo-api/issues"
   },
-  "homepage": "https://github.com/miladakbari-dev/graphql-apollo-api#readme",
+  "homepage": "https://github.com/milad-codes/graphql-apollo-api#readme",
   "devDependencies": {
     "nodemon": "^2.0.16"
   },
